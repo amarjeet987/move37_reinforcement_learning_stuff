@@ -1,4 +1,4 @@
-# Reinforcement learning stuffs
+# Reinforcement learning stuff
 
 ### 1) The classic cartpole example
 
