@@ -1,4 +1,4 @@
-# move37_reinforcement_learning_stuff
+# Move37 stuff
 
 ## 1) The classic cartpole example
 
